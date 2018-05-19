@@ -1,18 +1,10 @@
 # SQUARE PoS
 Es una App que te permite contar con un catálogo de productos con precios y stocks, cobros en efectivo y tarjeta de crédito,
-finalmente podrás realizar un cuadre de caja al final del día.
+finalmente podrás realizar un cuadre de caja al final del día.  
 
+![impulse](https://user-images.githubusercontent.com/31807340/40270786-05925326-5b59-11e8-9686-f701fa014986.png)
 
-![square](https://user-images.githubusercontent.com/32285958/38431507-16e966dc-398a-11e8-963e-c576086d57b2.PNG)
-
-## Desarrollado para
-[Laboratoria](http://laboratoria.la)
----
-![foto-cel1](https://user-images.githubusercontent.com/31896385/38016399-7f2e163c-3234-11e8-9564-0507d9109022.jpg)
-
-## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
-
-## En  [Peru](http://peru.com)
+## Proyecto desarrollado en [Laboratoria](http://laboratoria.la) Perú
 
 ## Replicar la app de Square POS
 Square POS es una de las mejores apps para punto de venta, sin embargo, no tiene aún soporte para latinoamérica.Esta es la app y aquí puedes ver un video de sus principales funciones. La idea es que crees una app parecida pero adaptada a las necesidades de tu país en términos de flujos, monedas e impuestos.
