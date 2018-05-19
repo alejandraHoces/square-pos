@@ -4,9 +4,7 @@ finalmente podrás realizar un cuadre de caja al final del día.
 
 ![impulse](https://user-images.githubusercontent.com/31807340/40270786-05925326-5b59-11e8-9686-f701fa014986.png)
 
-## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
-
-## En  [Peru](http://peru.com)
+## Proyecto desarrollado en [Laboratoria](http://laboratoria.la) Perú.
 
 ## Replicar la app de Square POS
 Square POS es una de las mejores apps para punto de venta, sin embargo, no tiene aún soporte para latinoamérica.Esta es la app y aquí puedes ver un video de sus principales funciones. La idea es que crees una app parecida pero adaptada a las necesidades de tu país en términos de flujos, monedas e impuestos.
